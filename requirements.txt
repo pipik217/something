@@ -1,0 +1,2 @@
+teachbooks
+git+https://github.com/TeachBooks/TeachBooks-Favourites

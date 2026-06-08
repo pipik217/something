@@ -1,0 +1,7 @@
+format: jb-book
+root: intro.md
+
+parts:
+  - caption: Chapters
+    chapters:
+      - file: chapters/01-test
